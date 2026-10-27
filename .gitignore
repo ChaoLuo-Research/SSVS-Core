@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.log
+
+# OS and IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Journal submission package & LaTeX manuscript sources
+# (Submitted separately via Springer Editorial Manager; excluded from public GitHub repo)
+manuscript.tex
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+Editorial_Manager_Package/
+*.zip
+
+# Local working drafts & internal review notes
+文档/
+README_Reproduction.md
