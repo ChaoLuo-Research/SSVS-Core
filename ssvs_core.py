@@ -5,7 +5,7 @@ ssvs_core.py — Low-Latency Screen-Space Visual Servoing (SSVS) Core Library
 Reference Implementation for:
 "Low-Latency Screen-Space Visual Servoing via Asynchronous Perception-Control
 Decoupling and Gain-Scheduled Discrete Tracking"
-Submitted to: Journal of Real-Time Image Processing (Springer)
+Author: Chao Luo
 """
 
 import math

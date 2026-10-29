@@ -4,7 +4,7 @@ Official open-source implementation and Monte-Carlo benchmark suite for **low-la
 
 This replication package contains the five-term discrete-time control law, multi-rate inverse ego-motion compensated state estimator, lightweight perception post-processing algorithms, and reproducible simulation harnesses supporting the manuscript:
 > **"Low-Latency Screen-Space Visual Servoing via Asynchronous Perception-Control Decoupling and Gain-Scheduled Discrete Tracking"**  
-> Chao Luo (*Journal of Real-Time Image Processing*, Springer Nature)
+> Chao Luo (Manuscript under peer review)
 
 ---
 
@@ -110,11 +110,11 @@ python generate_extra_figures_and_m9.py
 If you find this benchmark suite or control formulation useful in your research, please cite:
 
 ```bibtex
-@article{luo2026ssvs,
+@misc{luo2026ssvs,
   author  = {Luo, Chao},
   title   = {Low-Latency Screen-Space Visual Servoing via Asynchronous Perception-Control Decoupling and Gain-Scheduled Discrete Tracking},
-  journal = {Journal of Real-Time Image Processing},
   year    = {2026},
+  note    = {Open-source replication package (manuscript under review)},
   url     = {https://github.com/ChaoLuo-Research/SSVS-Core}
 }
 ```

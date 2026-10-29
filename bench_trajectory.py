@@ -5,7 +5,7 @@ Strictly reproduces and quantitatively validates the 5-term Gain-Scheduled
 Screen-Space Visual Servoing (SSVS) control law across synthetic kinematic
 benchmarks (Step, Ramp, Harmonic, and Jitter).
 
-Targeting Springer JRTIP empirical ablation matrix (M0 ~ M9).
+Evaluates the complete empirical ablation matrix (M0 ~ M9).
 Produces Table 4 data (and Section 6.2 delay sweep) and publication-grade figures.
 """
 
